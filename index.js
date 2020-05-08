@@ -13,7 +13,7 @@ const info = {
     " ----------------------------------------------------------- "
   ),
   space: " ",
-  email: chalk.bold.red("email:"),
+  email: chalk.bold.red("Email:"),
   emailAdressPart1: chalk.magenta("julienbroens"),
   emailAdressPart2: chalk.bold.yellow("@"),
   emailAdressPart3: chalk.magenta("gmail.com"),
