@@ -5,12 +5,12 @@ const boxen = require("boxen");
 const margin = 0;
 
 const info = {
-  name: chalk.white("Julien Broens"),
-  job: chalk.white(" Developer Web "),
-  line: chalk.cyan("--"),
-  soloLine: chalk.cyan("-"),
-  borderLine: chalk.cyan(
-    " ----------------------------------------------------------- "
+  name: chalk.bold.white("Julien Broens"),
+  job: chalk.bold.white(" Developer Web "),
+  line: chalk.bold.cyan("--"),
+  soloLine: chalk.bold.cyan("-"),
+  borderLine: chalk.bold.cyan(
+    " ------------------------------------------------------------ "
   ),
   space: " ",
   email: chalk.bold.red("Email:"),
