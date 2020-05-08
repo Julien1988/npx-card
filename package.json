@@ -1,0 +1,19 @@
+{
+  "name": "@julien1988/card",
+  "version": "1.0.0",
+  "description": "npxcard",
+  "main": "index.js",
+  "bin": {
+    "julien": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Julien1988",
+  "license": "ISC",
+  "dependencies": {
+    "npx": "^10.2.2",
+    "boxen": "^2.1.0",
+    "chalk": "^2.4.1"
+  }
+}
